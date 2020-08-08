@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt-text](https://github.com/monk1337/monk1337/blob/master/node_update.gif)
+
 <!--
 **monk1337/monk1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
