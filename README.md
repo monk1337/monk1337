@@ -2,7 +2,7 @@
 Hi there 👋, and welcome to one of my homes on the web! I’m Monk, a Research Engineer at [@Saama AI Research Lab](https://www.saama.com/). My research interests involve Representation Learning on Graphs and Manifolds, Natural Language Processing and their applications in Healthcare data, Unsupervised Learning and Spiking neural Networks.
 
 
-![alt-text](https://github.com/monk1337/monk1337/blob/master/node_update_.gif)
+<p align="center"> ![alt-text](https://github.com/monk1337/monk1337/blob/master/node_update_.gif) </p>
 
 <!--
 **monk1337/monk1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
