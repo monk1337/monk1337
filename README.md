@@ -1,5 +1,5 @@
 
-Hi there 👋, and welcome to one of my homes on the web! I’m Aaditya(Ankit), a Research Engineer at [@Saama AI Research Lab](https://www.saama.com/). My research interests involve Representation Learning on Graphs & NLP, Generative Large Language Models (LLMs), and their applications in Healthcare data, Federated learning, ASR & Audio Analysis. 
+Hi there 👋, and welcome to one of my homes on the web! I’m Ankit, a Research Engineer at [@Saama AI Research Lab](https://www.saama.com/). My research interests involve Representation Learning on Graphs & NLP, Generative Large Language Models (LLMs), and their applications in Healthcare data, Federated learning, ASR & Audio Analysis. 
 
 <!--
 For More info: [aadityaura.github.io](https://aadityaura.github.io)
